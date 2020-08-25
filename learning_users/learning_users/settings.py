@@ -28,7 +28,7 @@ SECRET_KEY = 'woaw2*$v&e3pqhip)n2dupmhi6=vuu%pxgtczmt*!2$)*g18h2'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['cheekibreeki.pythonanywhere.com',]
 
 
 # Application definition
